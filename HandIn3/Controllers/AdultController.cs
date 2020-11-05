@@ -52,7 +52,6 @@ namespace HandIn3.Controllers
         {
             try
             {
-                Console.Out.WriteLine(id);
                 await adults.deleteAdult(id);
                 return Ok();
             }

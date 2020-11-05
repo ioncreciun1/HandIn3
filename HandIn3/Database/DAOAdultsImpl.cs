@@ -50,7 +50,10 @@ namespace HandIn3.Database
 
         public async Task updateAdult(int adultID)
         {
-            throw new NotImplementedException();
+            var collection = database.GetCollection<BsonDocument>("Adults");
+            var filter = Builders<BsonDocument>.Filter.Eq("AdultID", adultID);
+            var update = Builders<BsonDocument>.Update.Set("AdultID", adultID);
+            collection.UpdateOne(filter, update);
         }
     }
 }
