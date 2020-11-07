@@ -22,6 +22,7 @@ namespace HandIn3
         {
             services.AddScoped<DAOAdults, DAOAdultsImpl>();
             services.AddControllers();
+            services.AddScoped<UserDAO, UserDAOImpl>();
             
         }
 

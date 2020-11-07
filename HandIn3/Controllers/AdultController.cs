@@ -18,11 +18,21 @@ namespace HandIn3.Controllers
             this.adults = adults;
         }
         [HttpGet]
-        public async Task<ActionResult<IList<Adult>>> getAdults()
+        public async Task<ActionResult<IList<Adult>>> getAdults(
+            [FromQuery] string firstName,
+            [FromQuery] string lastName,
+            [FromQuery] string jobTitle,
+            [FromQuery] string hairColor,
+            [FromQuery] string eyeColor,
+            [FromQuery] string sex,
+            [FromQuery] int? age,
+            [FromQuery] int? AdultID
+        )
         {
             try
             {
-                IList<Adult> adultList = await adults.getAdults();
+                IList<Adult> adultList = await adults.getAdults(firstName,lastName,jobTitle,hairColor,eyeColor,sex,
+                age,AdultID);
 
                 return Ok(adultList);
             }
