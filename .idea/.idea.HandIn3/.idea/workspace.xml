@@ -23,21 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ffce26-2b02-4469-97c0-a155c4e45309" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HandIn3/Controllers/UserController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandIn3/Database/UserDAO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandIn3/Database/UserDAOImpl.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandIn3/model/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HandIn3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HandIn3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HandIn3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HandIn3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/Controllers/AdultController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/Controllers/AdultController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/Database/DAOAdults.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/Database/DAOAdults.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/Database/DAOAdultsImpl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/Database/DAOAdultsImpl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/bin/Debug/netcoreapp3.1/HandIn3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/bin/Debug/netcoreapp3.1/HandIn3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/bin/Debug/netcoreapp3.1/HandIn3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/bin/Debug/netcoreapp3.1/HandIn3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/obj/Debug/netcoreapp3.1/HandIn3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/obj/Debug/netcoreapp3.1/HandIn3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/obj/Debug/netcoreapp3.1/HandIn3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/obj/Debug/netcoreapp3.1/HandIn3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandIn3/obj/Debug/netcoreapp3.1/HandIn3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HandIn3/obj/Debug/netcoreapp3.1/HandIn3.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +127,7 @@
       <workItem from="1604647835589" duration="1734000" />
       <workItem from="1604677503264" duration="6407000" />
       <workItem from="1604687143439" duration="4443000" />
-      <workItem from="1604748024046" duration="1037000" />
+      <workItem from="1604748024046" duration="1670000" />
     </task>
     <servers />
   </component>
@@ -174,22 +160,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="451" y="68" key="Github.UntrackedFilesDialog/0.0.1360.728@0.0.1360.728" timestamp="1604081595241" />
-    <state width="1317" height="178" key="GridCell.Tab.0.bottom" timestamp="1604694178879">
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom" timestamp="1604749368758">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604694178879" />
-    <state width="1317" height="178" key="GridCell.Tab.0.center" timestamp="1604694178879">
+    <state width="1317" height="178" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604749368758" />
+    <state width="1317" height="178" key="GridCell.Tab.0.center" timestamp="1604749368758">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604694178879" />
-    <state width="1317" height="178" key="GridCell.Tab.0.left" timestamp="1604694178879">
+    <state width="1317" height="178" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604749368758" />
+    <state width="1317" height="178" key="GridCell.Tab.0.left" timestamp="1604749368758">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604694178879" />
-    <state width="1317" height="178" key="GridCell.Tab.0.right" timestamp="1604694178879">
+    <state width="1317" height="178" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604749368758" />
+    <state width="1317" height="178" key="GridCell.Tab.0.right" timestamp="1604749368758">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="178" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604694178879" />
+    <state width="1317" height="178" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604749368758" />
     <state width="1317" height="250" key="GridCell.Tab.1.bottom" timestamp="1604069545336">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
